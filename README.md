@@ -1,8 +1,8 @@
 # Aviation Accident Data Analysis
 ## Jet Airline Safety Study for Insurance Client
 
-**Author:** [Your Name]  
-**Date:** [Current Date]  
+**Author:** [Erwin Maurice McDonald]  
+**Date:** [10/20/2025]  
 **Course:** Introduction to Data Science
 
 ---
